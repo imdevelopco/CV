@@ -7,8 +7,7 @@
 - Habilidades. :call_me_hand:
 - Hobbies. :mountain_biking_man: :weight_lifting: :coffee:
 
-Si quieres saber más sobre mi, visita mi página en github pages: 
-O visita mi perfil en LinkedIn: https://co.linkedin.com/in/carlos-andres-cordoba-ramos-33128714a
+Si quieres saber más sobre mi, visita mi página en github pages o visita mi perfil en LinkedIn: https://co.linkedin.com/in/carlos-andres-cordoba-ramos-33128714a
 
 Muchas gracias por visitarme. :zap:
 
@@ -21,7 +20,6 @@ Muchas gracias por visitarme. :zap:
 - Skills. :call_me_hand:
 - Hobbies. :mountain_biking_man: :weight_lifting: :coffee:
 
-For more details check my site on github pages: 
-or visit my LinkedIn profile: https://co.linkedin.com/in/carlos-andres-cordoba-ramos-33128714a
+For more details check my site on github pages or visit my LinkedIn profile: https://co.linkedin.com/in/carlos-andres-cordoba-ramos-33128714a
 
 Thankss. :zap:
